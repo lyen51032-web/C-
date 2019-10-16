@@ -1,0 +1,7 @@
+D:\workspace\c#\vs2019\source\repos\1014\ConsoleEnum\bin\Release\ConsoleEnum.exe.config
+D:\workspace\c#\vs2019\source\repos\1014\ConsoleEnum\bin\Release\ConsoleEnum.exe
+D:\workspace\c#\vs2019\source\repos\1014\ConsoleEnum\bin\Release\ConsoleEnum.pdb
+D:\workspace\c#\vs2019\source\repos\1014\ConsoleEnum\obj\Release\ConsoleEnum.csprojAssemblyReference.cache
+D:\workspace\c#\vs2019\source\repos\1014\ConsoleEnum\obj\Release\ConsoleEnum.csproj.CoreCompileInputs.cache
+D:\workspace\c#\vs2019\source\repos\1014\ConsoleEnum\obj\Release\ConsoleEnum.exe
+D:\workspace\c#\vs2019\source\repos\1014\ConsoleEnum\obj\Release\ConsoleEnum.pdb

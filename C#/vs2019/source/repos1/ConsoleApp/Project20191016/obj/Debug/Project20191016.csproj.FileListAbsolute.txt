@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\ConsoleApp\Project20191016\bin\Debug\Project20191016.exe.config
+C:\workspace\C#\vs2019\source\repos1\ConsoleApp\Project20191016\bin\Debug\Project20191016.exe
+C:\workspace\C#\vs2019\source\repos1\ConsoleApp\Project20191016\bin\Debug\Project20191016.pdb
+C:\workspace\C#\vs2019\source\repos1\ConsoleApp\Project20191016\obj\Debug\Project20191016.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\ConsoleApp\Project20191016\obj\Debug\Project20191016.exe
+C:\workspace\C#\vs2019\source\repos1\ConsoleApp\Project20191016\obj\Debug\Project20191016.pdb

@@ -1,0 +1,5 @@
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello1\bin\Debug\Hello1.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello1\bin\Debug\Hello1.exe
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello1\bin\Debug\Hello1.pdb
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello1\obj\Debug\Hello1.exe
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello1\obj\Debug\Hello1.pdb

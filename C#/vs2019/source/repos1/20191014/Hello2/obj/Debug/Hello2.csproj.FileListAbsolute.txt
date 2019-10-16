@@ -1,0 +1,12 @@
+C:\Users\web108b\source\repos\20191014\Hello2\bin\Debug\Hello2.exe.config
+C:\Users\web108b\source\repos\20191014\Hello2\bin\Debug\Hello2.exe
+C:\Users\web108b\source\repos\20191014\Hello2\bin\Debug\Hello2.pdb
+C:\Users\web108b\source\repos\20191014\Hello2\obj\Debug\Hello2.csprojAssemblyReference.cache
+C:\Users\web108b\source\repos\20191014\Hello2\obj\Debug\Hello2.exe
+C:\Users\web108b\source\repos\20191014\Hello2\obj\Debug\Hello2.pdb
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello2\bin\Debug\Hello2.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello2\bin\Debug\Hello2.exe
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello2\bin\Debug\Hello2.pdb
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello2\obj\Debug\Hello2.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello2\obj\Debug\Hello2.exe
+C:\workspace\C#\vs2019\source\repos1\20191014\Hello2\obj\Debug\Hello2.pdb

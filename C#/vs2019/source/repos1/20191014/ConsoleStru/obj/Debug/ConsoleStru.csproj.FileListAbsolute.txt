@@ -1,0 +1,5 @@
+C:\workspace\C#\vs2019\source\repos1\20191014\ConsoleStru\bin\Debug\ConsoleStru.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191014\ConsoleStru\bin\Debug\ConsoleStru.exe
+C:\workspace\C#\vs2019\source\repos1\20191014\ConsoleStru\bin\Debug\ConsoleStru.pdb
+C:\workspace\C#\vs2019\source\repos1\20191014\ConsoleStru\obj\Debug\ConsoleStru.exe
+C:\workspace\C#\vs2019\source\repos1\20191014\ConsoleStru\obj\Debug\ConsoleStru.pdb
