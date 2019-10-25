@@ -1,0 +1,9 @@
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\bin\Debug\ForSum.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\bin\Debug\ForSum.exe
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\bin\Debug\ForSum.pdb
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\obj\Debug\ForSum.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\obj\Debug\ForSum.Form1.resources
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\obj\Debug\ForSum.Properties.Resources.resources
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\obj\Debug\ForSum.csproj.GenerateResource.cache
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\obj\Debug\ForSum.exe
+C:\workspace\C#\vs2019\source\repos1\20191017\ForSum\obj\Debug\ForSum.pdb

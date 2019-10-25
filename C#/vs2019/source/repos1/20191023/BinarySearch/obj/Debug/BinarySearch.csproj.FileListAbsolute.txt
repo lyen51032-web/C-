@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191023\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191023\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191023\BinarySearch\bin\Debug\BinarySearch.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\workspace\C#\vs2019\source\repos1\20191023\BinarySearch\obj\Debug\BinarySearch.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\BinarySearch\obj\Debug\BinarySearch.pdb

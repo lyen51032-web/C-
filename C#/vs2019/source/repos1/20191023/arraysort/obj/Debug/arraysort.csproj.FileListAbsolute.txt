@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191023\arraysort\bin\Debug\arraysort.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191023\arraysort\bin\Debug\arraysort.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\arraysort\bin\Debug\arraysort.pdb
+C:\workspace\C#\vs2019\source\repos1\20191023\arraysort\obj\Debug\arraysort.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191023\arraysort\obj\Debug\arraysort.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\arraysort\obj\Debug\arraysort.pdb

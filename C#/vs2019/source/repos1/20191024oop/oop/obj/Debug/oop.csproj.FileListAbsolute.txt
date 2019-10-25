@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\bin\Debug\oop.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\bin\Debug\oop.exe
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\bin\Debug\oop.pdb
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\obj\Debug\oop.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\obj\Debug\oop.exe
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\obj\Debug\oop.pdb

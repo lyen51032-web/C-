@@ -1,0 +1,5 @@
+C:\Users\web108b\source\repos\1017\dowhile\bin\Debug\dowhile.exe.config
+C:\Users\web108b\source\repos\1017\dowhile\bin\Debug\dowhile.exe
+C:\Users\web108b\source\repos\1017\dowhile\bin\Debug\dowhile.pdb
+C:\Users\web108b\source\repos\1017\dowhile\obj\Debug\dowhile.exe
+C:\Users\web108b\source\repos\1017\dowhile\obj\Debug\dowhile.pdb

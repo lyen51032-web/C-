@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\myutility\bin\Debug\myutility_v1.0.dll
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\myutility\bin\Debug\myutility_v1.0.pdb
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\myutility\obj\Debug\myutility_v1.0.dll
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\myutility\obj\Debug\myutility_v1.0.pdb
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\myutility\bin\Debug\myutility_v1.0.xml
+C:\workspace\C#\vs2019\source\repos1\20191024oop\oop\myutility\obj\Debug\myutility.csprojAssemblyReference.cache

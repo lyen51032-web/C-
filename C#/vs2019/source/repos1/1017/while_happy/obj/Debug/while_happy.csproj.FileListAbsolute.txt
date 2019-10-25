@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\1017\while_happy\bin\Debug\while_happy.exe.config
+C:\Users\web108b\source\repos\1017\while_happy\bin\Debug\while_happy.exe
+C:\Users\web108b\source\repos\1017\while_happy\bin\Debug\while_happy.pdb
+C:\Users\web108b\source\repos\1017\while_happy\obj\Debug\while_happy.csprojAssemblyReference.cache
+C:\Users\web108b\source\repos\1017\while_happy\obj\Debug\while_happy.exe
+C:\Users\web108b\source\repos\1017\while_happy\obj\Debug\while_happy.pdb

@@ -1,0 +1,7 @@
+D:\workspace\c#\vs2019\source\repos\1023\ConsoleAmount\bin\Debug\ConsoleAmount.exe.config
+D:\workspace\c#\vs2019\source\repos\1023\ConsoleAmount\bin\Debug\ConsoleAmount.exe
+D:\workspace\c#\vs2019\source\repos\1023\ConsoleAmount\bin\Debug\ConsoleAmount.pdb
+D:\workspace\c#\vs2019\source\repos\1023\ConsoleAmount\obj\Debug\ConsoleAmount.csprojAssemblyReference.cache
+D:\workspace\c#\vs2019\source\repos\1023\ConsoleAmount\obj\Debug\ConsoleAmount.csproj.CoreCompileInputs.cache
+D:\workspace\c#\vs2019\source\repos\1023\ConsoleAmount\obj\Debug\ConsoleAmount.exe
+D:\workspace\c#\vs2019\source\repos\1023\ConsoleAmount\obj\Debug\ConsoleAmount.pdb

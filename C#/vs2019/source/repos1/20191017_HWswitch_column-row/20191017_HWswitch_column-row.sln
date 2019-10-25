@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "draw_column_row", "switchcase\draw_column_row.csproj", "{3B6ECB7C-5C39-42E6-8A4A-69CADE5ED0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchcase", "WindowsFormsApp1\switchcase.csproj", "{3F3B2F54-54F0-48B9-84E2-F1E5E11AB834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B6ECB7C-5C39-42E6-8A4A-69CADE5ED0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6ECB7C-5C39-42E6-8A4A-69CADE5ED0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6ECB7C-5C39-42E6-8A4A-69CADE5ED0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6ECB7C-5C39-42E6-8A4A-69CADE5ED0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3B2F54-54F0-48B9-84E2-F1E5E11AB834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3B2F54-54F0-48B9-84E2-F1E5E11AB834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3B2F54-54F0-48B9-84E2-F1E5E11AB834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3B2F54-54F0-48B9-84E2-F1E5E11AB834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D163D1F-E56F-4737-B0F9-0DECE60BBD52}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191023\revenue\bin\Debug\revenue.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191023\revenue\bin\Debug\revenue.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\revenue\bin\Debug\revenue.pdb
+C:\workspace\C#\vs2019\source\repos1\20191023\revenue\obj\Debug\revenue.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191023\revenue\obj\Debug\revenue.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\revenue\obj\Debug\revenue.pdb

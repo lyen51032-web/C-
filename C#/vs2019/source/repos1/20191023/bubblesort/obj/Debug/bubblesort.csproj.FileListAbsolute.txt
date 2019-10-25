@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191023\bubblesort\bin\Debug\bubblesort.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191023\bubblesort\bin\Debug\bubblesort.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\bubblesort\bin\Debug\bubblesort.pdb
+C:\workspace\C#\vs2019\source\repos1\20191023\bubblesort\obj\Debug\bubblesort.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191023\bubblesort\obj\Debug\bubblesort.exe
+C:\workspace\C#\vs2019\source\repos1\20191023\bubblesort\obj\Debug\bubblesort.pdb

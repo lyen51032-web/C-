@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>myutility_v1.0</name>
+    </assembly>
+    <members>
+        <member name="T:myUtility.Car.Car">
+            <summary>
+            車子的類別
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.Car.Dispose">
+            <summary>
+            解構子,實現IDisposable中的Dispose方法
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.Car.Dispose(System.Boolean)">
+            <summary>
+            Car解構子
+            </summary>
+            <param name="disposing">disposing</param>
+        </member>
+        <member name="M:myUtility.Car.Car.Finalize">
+            <summary>
+            Car 解構子
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.CC">
+            <summary>
+            排氣量
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.Year">
+            <summary>
+            出廠年份
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.EngineNumber">
+            <summary>
+            引擎號碼
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.FuelType">
+            <summary>
+            燃油方式
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.Brand">
+            <summary>
+            廠牌
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.Speed">
+            <summary>
+            目前車速
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.SpeedLimit">
+            <summary>
+            車子極速
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.Car.SpeedUp">
+            <summary>
+            車子每加速增加速度
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.Car.#ctor">
+            <summary>
+            車子的建構子
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.Car.#ctor(myUtility.Car.myEnum.Brand,System.Int32,System.Int32,myUtility.Car.myEnum.FuelType,System.String)">
+            <summary>
+            車子的建構子
+            </summary>
+            <param name="enBrand">廠牌</param>
+            <param name="iYear">出廠年份</param>
+            <param name="iCC">排氣量</param>
+            <param name="enFuelType">燃油方式</param>
+            <param name="sEngineNumber">引擎號碼</param>
+        </member>
+        <member name="M:myUtility.Car.Car.Accelerate">
+            <summary>
+            車子加速
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.Car.Decelerate">
+            <summary>
+            車子減速
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.Car.AccelerateSpeed">
+            <summary>
+            加速
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.Car.DecelerateSpeed">
+            <summary>
+            減速
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.CIVIC">
+            <summary>
+            HONDA CIVIC 車型
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.CIVIC.Finalize">
+            <summary>
+            Car 解構子
+            </summary>
+            
+        </member>
+        <member name="M:myUtility.Car.CIVIC.#ctor">
+            <summary>
+            HONDA CIVIC 廠牌建構子
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.CIVIC.#ctor(System.Int32,System.Int32,myUtility.Car.myEnum.FuelType,System.String)">
+            <summary>
+            HONDA CIVIC 廠牌建構子
+            </summary>
+            <param name="iYear">出廠年份</param>
+            <param name="iCC">排氣量</param>
+            <param name="enFuelType">燃油方式</param>
+            <param name="sEngineNumber">引擎號碼</param>
+        </member>
+        <member name="T:myUtility.Car.HONDA">
+            <summary>
+            HONDA 廠牌
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.HONDA.Finalize">
+            <summary>
+            Car 解構子
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.HONDA.CarType">
+            <summary>
+            HONDA 車型
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.HONDA.InsuranceType">
+            <summary>
+            汽車保險
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.HONDA.#ctor">
+            <summary>
+            HONDA 廠牌建構子
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.IFixdSpeed">
+            <summary>
+            定速功能介面
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.IFixdSpeed.FixedSpeed">
+            <summary>
+            是否在定速狀態
+            </summary>
+        </member>
+        <member name="M:myUtility.Car.IFixdSpeed.PushFixedSpeedButton">
+            <summary>
+            按下定速鍵
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.IRecorder">
+            <summary>
+            錄影功能介面
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.IRecorder.FrontCarRecorder">
+            <summary>
+            前車錄影
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.IRecorder.BackCarRecorder">
+            <summary>
+            後車錄影
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.IRecorder.BackCarRadar">
+            <summary>
+            倒車雷達
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.IInsurance">
+            <summary>
+            汽車保險介面
+            </summary>
+        </member>
+        <member name="P:myUtility.Car.IInsurance.InsuranceType">
+            <summary>
+            保險方式
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.myEnum">
+            <summary>
+            使用者自定義枚舉類型的類別
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.myEnum.Color">
+            <summary>
+            車子顏色
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.Color.Black">
+            <summary>
+            黑色
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.Color.Blue">
+            <summary>
+            藍色
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.Color.Red">
+            <summary>
+            紅色
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.Color.White">
+            <summary>
+            白色
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.myEnum.FuelType">
+            <summary>
+            燃油種類
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.FuelType.Gasoline">
+            <summary>
+            汽油
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.FuelType.Diesel">
+            <summary>
+            柴油
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.FuelType.Battery">
+            <summary>
+            電動
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.myEnum.Brand">
+            <summary>
+            車子廠牌
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.Brand.HONDA">
+            <summary>
+            HONDA
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.Brand.TOYOTA">
+            <summary>
+            TOYOTA
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.myEnum.HONDA_CarType">
+            <summary>
+            HONDA 廠牌車型
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.myEnum.TOYOTA_CarType">
+            <summary>
+            TOYOTA 廠牌車型
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.TOYOTA_CarType.CAMRY">
+            <summary>
+            CAMRY
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.TOYOTA_CarType.YARIS">
+            <summary>
+            YARIS
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.TOYOTA_CarType.WISH">
+            <summary>
+            WISH
+            </summary>
+        </member>
+        <member name="T:myUtility.Car.myEnum.InsuranceType">
+            <summary>
+            保險類別
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.InsuranceType.InsuranceTypeA">
+            <summary>
+            甲式保險
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.InsuranceType.InsuranceTypeB">
+            <summary>
+            乙式保險
+            </summary>
+        </member>
+        <member name="F:myUtility.Car.myEnum.InsuranceType.InsuranceTypeC">
+            <summary>
+            丙式保險
+            </summary>
+        </member>
+    </members>
+</doc>

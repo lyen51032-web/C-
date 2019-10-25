@@ -1,0 +1,5 @@
+C:\Users\web108b\source\repos\1017\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\web108b\source\repos\1017\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\web108b\source\repos\1017\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\web108b\source\repos\1017\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\web108b\source\repos\1017\TryCatch\obj\Debug\TryCatch.pdb

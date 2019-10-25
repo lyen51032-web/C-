@@ -1,0 +1,8 @@
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\bin\Debug\@foreach.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\bin\Debug\@foreach.exe
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\bin\Debug\@foreach.pdb
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\obj\Debug\foreach.Form1.resources
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\obj\Debug\foreach.Properties.Resources.resources
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\obj\Debug\foreach.csproj.GenerateResource.cache
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\obj\Debug\@foreach.exe
+C:\workspace\C#\vs2019\source\repos1\20191017\foreach\obj\Debug\@foreach.pdb

@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\1017\switchcase\bin\Debug\switchcase.exe.config
+C:\Users\web108b\source\repos\1017\switchcase\bin\Debug\switchcase.exe
+C:\Users\web108b\source\repos\1017\switchcase\bin\Debug\switchcase.pdb
+C:\Users\web108b\source\repos\1017\switchcase\obj\Debug\switchcase.exe
+C:\Users\web108b\source\repos\1017\switchcase\obj\Debug\switchcase.pdb
+C:\Users\web108b\source\repos\1017\switchcase\obj\Debug\switchcase.csprojAssemblyReference.cache

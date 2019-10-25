@@ -1,0 +1,9 @@
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\bin\Debug\switchcase.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\bin\Debug\switchcase.exe
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\bin\Debug\switchcase.pdb
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\obj\Debug\draw_column_row.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\obj\Debug\switchcase.Form1.resources
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\obj\Debug\switchcase.Properties.Resources.resources
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\obj\Debug\draw_column_row.csproj.GenerateResource.cache
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\obj\Debug\switchcase.exe
+C:\workspace\C#\vs2019\source\repos1\20191017_HWswitch_column-row\switchcase\obj\Debug\switchcase.pdb
