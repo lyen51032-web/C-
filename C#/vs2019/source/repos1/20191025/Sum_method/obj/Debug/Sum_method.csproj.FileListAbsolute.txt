@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\Sum_method\bin\Debug\Sum_method.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\Sum_method\bin\Debug\Sum_method.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\Sum_method\bin\Debug\Sum_method.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\Sum_method\obj\Debug\Sum_method.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191025\Sum_method\obj\Debug\Sum_method.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\Sum_method\obj\Debug\Sum_method.pdb

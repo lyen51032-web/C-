@@ -1,0 +1,9 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\bin\Debug\round_area.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\bin\Debug\round_area.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\bin\Debug\round_area.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\obj\Debug\round_area.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\obj\Debug\round_area.Form1.resources
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\obj\Debug\round_area.Properties.Resources.resources
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\obj\Debug\round_area.csproj.GenerateResource.cache
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\obj\Debug\round_area.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\round_area\obj\Debug\round_area.pdb

@@ -1,0 +1,7 @@
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleRecursive\bin\Debug\ConsoleRecursive.exe.config
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleRecursive\bin\Debug\ConsoleRecursive.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleRecursive\bin\Debug\ConsoleRecursive.pdb
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleRecursive\obj\Debug\ConsoleRecursive.csprojAssemblyReference.cache
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleRecursive\obj\Debug\ConsoleRecursive.csproj.CoreCompileInputs.cache
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleRecursive\obj\Debug\ConsoleRecursive.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleRecursive\obj\Debug\ConsoleRecursive.pdb

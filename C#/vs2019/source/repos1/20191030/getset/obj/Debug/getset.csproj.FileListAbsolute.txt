@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\20191030\getset\bin\Debug\getset.exe.config
+C:\Users\web108b\source\repos\20191030\getset\bin\Debug\getset.exe
+C:\Users\web108b\source\repos\20191030\getset\bin\Debug\getset.pdb
+C:\Users\web108b\source\repos\20191030\getset\obj\Debug\getset.csprojAssemblyReference.cache
+C:\Users\web108b\source\repos\20191030\getset\obj\Debug\getset.exe
+C:\Users\web108b\source\repos\20191030\getset\obj\Debug\getset.pdb

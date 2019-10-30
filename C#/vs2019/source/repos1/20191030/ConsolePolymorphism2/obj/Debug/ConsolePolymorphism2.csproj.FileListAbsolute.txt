@@ -1,0 +1,6 @@
+D:\workspace\c#\vs2019\source\repos\1030\ConsolePolymorphism2\bin\Debug\ConsolePolymorphism2.exe.config
+D:\workspace\c#\vs2019\source\repos\1030\ConsolePolymorphism2\bin\Debug\ConsolePolymorphism2.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsolePolymorphism2\bin\Debug\ConsolePolymorphism2.pdb
+D:\workspace\c#\vs2019\source\repos\1030\ConsolePolymorphism2\obj\Debug\ConsolePolymorphism2.csproj.CoreCompileInputs.cache
+D:\workspace\c#\vs2019\source\repos\1030\ConsolePolymorphism2\obj\Debug\ConsolePolymorphism2.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsolePolymorphism2\obj\Debug\ConsolePolymorphism2.pdb

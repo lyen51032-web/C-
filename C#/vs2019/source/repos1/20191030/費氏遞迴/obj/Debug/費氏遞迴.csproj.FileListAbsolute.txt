@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\20191030\費氏遞迴\bin\Debug\費氏遞迴.exe.config
+C:\Users\web108b\source\repos\20191030\費氏遞迴\bin\Debug\費氏遞迴.exe
+C:\Users\web108b\source\repos\20191030\費氏遞迴\bin\Debug\費氏遞迴.pdb
+C:\Users\web108b\source\repos\20191030\費氏遞迴\obj\Debug\費氏遞迴.exe
+C:\Users\web108b\source\repos\20191030\費氏遞迴\obj\Debug\費氏遞迴.pdb
+C:\Users\web108b\source\repos\20191030\費氏遞迴\obj\Debug\費氏遞迴.csprojAssemblyReference.cache

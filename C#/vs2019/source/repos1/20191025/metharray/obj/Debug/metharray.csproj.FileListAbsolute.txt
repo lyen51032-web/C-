@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\metharray\bin\Debug\metharray.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\metharray\bin\Debug\metharray.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\metharray\bin\Debug\metharray.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\metharray\obj\Debug\metharray.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191025\metharray\obj\Debug\metharray.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\metharray\obj\Debug\metharray.pdb

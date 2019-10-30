@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyout\bin\Debug\callbyout.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyout\bin\Debug\callbyout.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyout\bin\Debug\callbyout.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyout\obj\Debug\callbyout.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyout\obj\Debug\callbyout.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyout\obj\Debug\callbyout.csprojAssemblyReference.cache

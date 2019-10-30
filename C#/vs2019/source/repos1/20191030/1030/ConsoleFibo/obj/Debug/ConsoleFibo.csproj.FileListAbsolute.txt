@@ -1,0 +1,6 @@
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleFibo\bin\Debug\ConsoleFibo.exe.config
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleFibo\bin\Debug\ConsoleFibo.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleFibo\bin\Debug\ConsoleFibo.pdb
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleFibo\obj\Debug\ConsoleFibo.csproj.CoreCompileInputs.cache
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleFibo\obj\Debug\ConsoleFibo.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleFibo\obj\Debug\ConsoleFibo.pdb

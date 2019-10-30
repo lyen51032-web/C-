@@ -1,0 +1,5 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\遮蔽效應範例\bin\Debug\遮蔽效應範例.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\遮蔽效應範例\bin\Debug\遮蔽效應範例.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\遮蔽效應範例\bin\Debug\遮蔽效應範例.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\遮蔽效應範例\obj\Debug\遮蔽效應範例.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\遮蔽效應範例\obj\Debug\遮蔽效應範例.pdb

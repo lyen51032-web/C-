@@ -1,0 +1,13 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\EX2\bin\Debug\EX2.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\EX2\bin\Debug\EX2.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\EX2\bin\Debug\EX2.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\EX2\obj\Debug\EX2.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\EX2\obj\Debug\EX2.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\EX2\obj\Debug\EX2.csprojAssemblyReference.cache
+C:\repos1\20191025\EX2\bin\Debug\EX2.exe.config
+C:\repos1\20191025\EX2\bin\Debug\EX2.exe
+C:\repos1\20191025\EX2\bin\Debug\EX2.pdb
+C:\repos1\20191025\EX2\obj\Debug\EX2.csprojAssemblyReference.cache
+C:\repos1\20191025\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+C:\repos1\20191025\EX2\obj\Debug\EX2.exe
+C:\repos1\20191025\EX2\obj\Debug\EX2.pdb

@@ -1,0 +1,7 @@
+D:\workspace\c#\vs2019\source\repos\1025_作業繳交\bin\Debug\1025_作業繳交.exe.config
+D:\workspace\c#\vs2019\source\repos\1025_作業繳交\bin\Debug\1025_作業繳交.exe
+D:\workspace\c#\vs2019\source\repos\1025_作業繳交\bin\Debug\1025_作業繳交.pdb
+D:\workspace\c#\vs2019\source\repos\1025_作業繳交\obj\Debug\1025_作業繳交.csprojAssemblyReference.cache
+D:\workspace\c#\vs2019\source\repos\1025_作業繳交\obj\Debug\1025_作業繳交.csproj.CoreCompileInputs.cache
+D:\workspace\c#\vs2019\source\repos\1025_作業繳交\obj\Debug\1025_作業繳交.exe
+D:\workspace\c#\vs2019\source\repos\1025_作業繳交\obj\Debug\1025_作業繳交.pdb

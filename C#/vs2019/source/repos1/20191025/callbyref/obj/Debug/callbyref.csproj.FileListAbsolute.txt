@@ -1,0 +1,5 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyref\bin\Debug\callbyref.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyref\bin\Debug\callbyref.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyref\bin\Debug\callbyref.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyref\obj\Debug\callbyref.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyref\obj\Debug\callbyref.pdb

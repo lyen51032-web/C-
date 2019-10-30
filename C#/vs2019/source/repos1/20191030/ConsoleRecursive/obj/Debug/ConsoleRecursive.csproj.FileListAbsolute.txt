@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\20191030\ConsoleRecursive\bin\Debug\ConsoleRecursive.exe.config
+C:\Users\web108b\source\repos\20191030\ConsoleRecursive\bin\Debug\ConsoleRecursive.exe
+C:\Users\web108b\source\repos\20191030\ConsoleRecursive\bin\Debug\ConsoleRecursive.pdb
+C:\Users\web108b\source\repos\20191030\ConsoleRecursive\obj\Debug\ConsoleRecursive.csprojAssemblyReference.cache
+C:\Users\web108b\source\repos\20191030\ConsoleRecursive\obj\Debug\ConsoleRecursive.exe
+C:\Users\web108b\source\repos\20191030\ConsoleRecursive\obj\Debug\ConsoleRecursive.pdb

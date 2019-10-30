@@ -1,0 +1,7 @@
+C:\repos1\20191025\EX3\bin\Debug\EX3.exe.config
+C:\repos1\20191025\EX3\bin\Debug\EX3.exe
+C:\repos1\20191025\EX3\bin\Debug\EX3.pdb
+C:\repos1\20191025\EX3\obj\Debug\EX3.csprojAssemblyReference.cache
+C:\repos1\20191025\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+C:\repos1\20191025\EX3\obj\Debug\EX3.exe
+C:\repos1\20191025\EX3\obj\Debug\EX3.pdb

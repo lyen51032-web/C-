@@ -1,0 +1,8 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\bin\Debug\temperature.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\bin\Debug\temperature.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\bin\Debug\temperature.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\obj\Debug\temperature.Form1.resources
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\obj\Debug\temperature.Properties.Resources.resources
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\obj\Debug\temperature.csproj.GenerateResource.cache
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\obj\Debug\temperature.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\temperature\obj\Debug\temperature.pdb

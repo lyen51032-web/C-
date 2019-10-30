@@ -1,0 +1,5 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\Calc_Static\bin\Debug\Calc_Static.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\Calc_Static\bin\Debug\Calc_Static.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\Calc_Static\bin\Debug\Calc_Static.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\Calc_Static\obj\Debug\Calc_Static.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\Calc_Static\obj\Debug\Calc_Static.pdb

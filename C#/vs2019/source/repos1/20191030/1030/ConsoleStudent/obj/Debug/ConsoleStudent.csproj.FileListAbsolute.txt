@@ -1,0 +1,7 @@
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleStudent\bin\Debug\ConsoleStudent.exe.config
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleStudent\bin\Debug\ConsoleStudent.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleStudent\bin\Debug\ConsoleStudent.pdb
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleStudent\obj\Debug\ConsoleStudent.csprojAssemblyReference.cache
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleStudent\obj\Debug\ConsoleStudent.csproj.CoreCompileInputs.cache
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleStudent\obj\Debug\ConsoleStudent.exe
+D:\workspace\c#\vs2019\source\repos\1030\ConsoleStudent\obj\Debug\ConsoleStudent.pdb

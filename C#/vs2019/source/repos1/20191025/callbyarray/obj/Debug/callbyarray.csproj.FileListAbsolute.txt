@@ -1,0 +1,11 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyarray\bin\Debug\callbyarray.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyarray\bin\Debug\callbyarray.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyarray\bin\Debug\callbyarray.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyarray\obj\Debug\callbyarray.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyarray\obj\Debug\callbyarray.pdb
+C:\repos1\20191025\callbyarray\bin\Debug\callbyarray.exe.config
+C:\repos1\20191025\callbyarray\bin\Debug\callbyarray.exe
+C:\repos1\20191025\callbyarray\bin\Debug\callbyarray.pdb
+C:\repos1\20191025\callbyarray\obj\Debug\callbyarray.csproj.CoreCompileInputs.cache
+C:\repos1\20191025\callbyarray\obj\Debug\callbyarray.exe
+C:\repos1\20191025\callbyarray\obj\Debug\callbyarray.pdb

@@ -1,0 +1,6 @@
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyvalue\bin\Debug\callbyvalue.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyvalue\bin\Debug\callbyvalue.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyvalue\bin\Debug\callbyvalue.pdb
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyvalue\obj\Debug\callbyvalue.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyvalue\obj\Debug\callbyvalue.exe
+C:\workspace\C#\vs2019\source\repos1\20191025\callbyvalue\obj\Debug\callbyvalue.pdb
