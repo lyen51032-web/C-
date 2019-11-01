@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe.config
+C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe
+C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.pdb
+C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.exe
+C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.pdb
+C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csprojAssemblyReference.cache

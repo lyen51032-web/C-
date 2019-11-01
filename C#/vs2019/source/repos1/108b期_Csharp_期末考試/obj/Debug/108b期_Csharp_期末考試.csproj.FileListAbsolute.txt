@@ -1,0 +1,19 @@
+C:\workspace\vs2019\c#\source\repos\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.exe.config
+C:\workspace\vs2019\c#\source\repos\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.exe
+C:\workspace\vs2019\c#\source\repos\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.pdb
+C:\workspace\vs2019\c#\source\repos\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.csprojAssemblyReference.cache
+C:\workspace\vs2019\c#\source\repos\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.csproj.CoreCompileInputs.cache
+C:\workspace\vs2019\c#\source\repos\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.exe
+C:\workspace\vs2019\c#\source\repos\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.pdb
+Z:\教學資料\跨平台網頁程式設計開發\108 跨平台網頁設計開發班(幼獅) B期 (1080910~1071225)\#C\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.exe.config
+Z:\教學資料\跨平台網頁程式設計開發\108 跨平台網頁設計開發班(幼獅) B期 (1080910~1071225)\#C\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.exe
+Z:\教學資料\跨平台網頁程式設計開發\108 跨平台網頁設計開發班(幼獅) B期 (1080910~1071225)\#C\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.pdb
+Z:\教學資料\跨平台網頁程式設計開發\108 跨平台網頁設計開發班(幼獅) B期 (1080910~1071225)\#C\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.csprojAssemblyReference.cache
+Z:\教學資料\跨平台網頁程式設計開發\108 跨平台網頁設計開發班(幼獅) B期 (1080910~1071225)\#C\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.exe
+Z:\教學資料\跨平台網頁程式設計開發\108 跨平台網頁設計開發班(幼獅) B期 (1080910~1071225)\#C\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.pdb
+C:\workspace\C#\vs2019\source\repos1\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.exe
+C:\workspace\C#\vs2019\source\repos1\108b期_Csharp_期末考試\obj\Debug\108b期_Csharp_期末考試.pdb
+C:\workspace\C#\vs2019\source\repos1\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.exe.config
+C:\workspace\C#\vs2019\source\repos1\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.exe
+C:\workspace\C#\vs2019\source\repos1\108b期_Csharp_期末考試\bin\Debug\108b期_Csharp_期末考試.pdb

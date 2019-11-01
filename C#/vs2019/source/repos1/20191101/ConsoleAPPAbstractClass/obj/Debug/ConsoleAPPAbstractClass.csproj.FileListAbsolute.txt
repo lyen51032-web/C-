@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\20191101\ConsoleAPPAbstractClass\obj\Debug\ConsoleAPPAbstractClass.csprojAssemblyReference.cache
+C:\Users\web108b\source\repos\20191101\ConsoleAPPAbstractClass\bin\Debug\ConsoleAPPAbstractClass.exe.config
+C:\Users\web108b\source\repos\20191101\ConsoleAPPAbstractClass\bin\Debug\ConsoleAPPAbstractClass.exe
+C:\Users\web108b\source\repos\20191101\ConsoleAPPAbstractClass\bin\Debug\ConsoleAPPAbstractClass.pdb
+C:\Users\web108b\source\repos\20191101\ConsoleAPPAbstractClass\obj\Debug\ConsoleAPPAbstractClass.exe
+C:\Users\web108b\source\repos\20191101\ConsoleAPPAbstractClass\obj\Debug\ConsoleAPPAbstractClass.pdb

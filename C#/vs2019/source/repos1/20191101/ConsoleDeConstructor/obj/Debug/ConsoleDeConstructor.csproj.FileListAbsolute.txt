@@ -1,0 +1,6 @@
+C:\Users\web108b\source\repos\20191101\ConsoleDeConstructor\bin\Debug\ConsoleDeConstructor.exe.config
+C:\Users\web108b\source\repos\20191101\ConsoleDeConstructor\bin\Debug\ConsoleDeConstructor.exe
+C:\Users\web108b\source\repos\20191101\ConsoleDeConstructor\bin\Debug\ConsoleDeConstructor.pdb
+C:\Users\web108b\source\repos\20191101\ConsoleDeConstructor\obj\Debug\ConsoleDeConstructor.csprojAssemblyReference.cache
+C:\Users\web108b\source\repos\20191101\ConsoleDeConstructor\obj\Debug\ConsoleDeConstructor.exe
+C:\Users\web108b\source\repos\20191101\ConsoleDeConstructor\obj\Debug\ConsoleDeConstructor.pdb
