@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\workspace\C#\vs2019\source\repos1\20191031mvctest\20191031mvctest\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\workspace\C#\vs2019\source\repos1\20191031mvctest\20191031mvctest\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\workspace\C#\vs2019\source\repos1\20191031mvctest\20191031mvctest\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
