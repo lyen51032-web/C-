@@ -6,10 +6,18 @@ using System.Threading.Tasks;
 
 namespace _108b期_Csharp_期末考試
 {
+    interface IInfo {
+        int Info();
+    }
 
+
+    
 
     class FinalTest_Ex8
     {
+
+
+
         class Traffic
         {
             protected static int _miles;

@@ -4,3 +4,9 @@ C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\bin\Debug\ConsoleAppI
 C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.exe
 C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.pdb
 C:\Users\web108b\source\repos\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191101\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe.config
+C:\workspace\C#\vs2019\source\repos1\20191101\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.exe
+C:\workspace\C#\vs2019\source\repos1\20191101\ConsoleAppInterface\bin\Debug\ConsoleAppInterface.pdb
+C:\workspace\C#\vs2019\source\repos1\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.csprojAssemblyReference.cache
+C:\workspace\C#\vs2019\source\repos1\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.exe
+C:\workspace\C#\vs2019\source\repos1\20191101\ConsoleAppInterface\obj\Debug\ConsoleAppInterface.pdb
