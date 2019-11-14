@@ -11,12 +11,14 @@ namespace proToDO.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class tToDo
     {
         public int fId { get; set; }
         public string fTitle { get; set; }
         public string fImage { get; set; }
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:yyyy/MM/dd}")]
         public Nullable<System.DateTime> fDate { get; set; }
     }
 }
