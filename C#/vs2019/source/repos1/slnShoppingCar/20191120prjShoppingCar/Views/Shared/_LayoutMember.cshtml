@@ -21,11 +21,12 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
+                    <li><a href="#">@Session["WelCome"]</a></li>
                     <li>@Html.ActionLink("產品列表", "Index", "Home")</li>
                     <li>@Html.ActionLink("購物車", "ShoppingCar", "Home")</li>
                     <li>@Html.ActionLink("訂單", "OrderList", "Home")</li>
                     <li>@Html.ActionLink("登出", "Logout", "Home")</li>
-                    <li><a href="#">@Session["WelCome"]</a></li>
+
 
                 </ul>
             </div>
