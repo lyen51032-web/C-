@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 
 using System.IO;
+using lyen;
 
 namespace prjFileUpload.Controllers
 {
@@ -18,8 +19,18 @@ namespace prjFileUpload.Controllers
         [HttpPost]
         public ActionResult Create(HttpPostedFileBase photo)
         {
-            //上傳圖檔
-            string fileName = "";
+
+            using (ezFileUpload upload = new ezFileUpload("~/Photos")) {
+
+                upload.SaveUploadFile(photo);
+            
+            }
+
+
+
+            /*
+                //上傳圖檔
+                string fileName = "";
             //檔案上傳
             if (photo != null)
             {
@@ -30,7 +41,7 @@ namespace prjFileUpload.Controllers
                     var path = Path.Combine(Server.MapPath("~/Photos"), fileName);
                     photo.SaveAs(path);
                 }
-            }
+            }*/
             return RedirectToAction("ShowPhotos");
         }
 
@@ -39,6 +50,15 @@ namespace prjFileUpload.Controllers
         {
             string show = "";
 
+
+            using (ezFileUpload upload = new ezFileUpload("~/Photos"))
+            {
+                show = upload.GetShowPhotosHtml("Create");
+                
+                    }
+
+
+            /*
             // 建立可操作Photos資料夾的dir物件
             DirectoryInfo dir = new DirectoryInfo(Server.MapPath("~/Photos"));
             // 取得dir物件下的所有檔案(即Photos資料夾下)並放入finfo檔案資訊陣列
@@ -57,6 +77,7 @@ namespace prjFileUpload.Controllers
             }
             // show變數再加上 '返回' Create動作方法的連結
             show += "<p><a href='Create'>返回</a></p>";
+            */
             return show;
         }
     }
