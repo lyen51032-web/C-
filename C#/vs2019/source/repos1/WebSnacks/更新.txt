@@ -1,0 +1,32 @@
+20191205
+Register±Æª©§ó·s
+
+
+default.css
+.btn-skin {
+  color: #fff;
+  background-color: #3dc9b3;
+  border-color: #3dc9b3;
+}
+#b60606
+
+style.css
+.service-box {
+    background: #fff;
+    border-bottom: 2px solid #b60606;
+    padding: 40px 20px;
+    margin: 20px;
+}
+
+/* --- logo --- */
+.site-logo {
+    margin-top: 15px;
+}
+
+
+https://www.dousao.com.tw/?source=google_ads&campaign=snack_IB&content=responsive_20190717&source_campaign=&content=&gclid=Cj0KCQiAz53vBRCpARIsAPPsz8XyCpputpZNHCCm3vkFMMZxJjyPMABuzFUY4uRt5HJe-ggfplW6PbYaAlnvEALw_wcB
+
+https://shop.snacklips.com/?gclid=Cj0KCQiAz53vBRCpARIsAPPsz8US3dWH3XXEWWKbqu5n7yQTG2Ed34hlX4drpHfoSrZAbj6ThfdqehAaAsB5EALw_wcB
+
+
+https://snacklips.com/

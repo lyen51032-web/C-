@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SnackDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="z_bas_goods">
+    <Key>
+      <PropertyRef Name="rowid" />
+    </Key>
+    <Property Name="rowid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="mno" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mtype" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mspec" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="mdate" Type="DateTime" Precision="0" />
+    <Property Name="mimg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="qty_stock" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="price_sale" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="price_discount" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="price_cost" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="remark" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="z_bas_orders">
+    <Key>
+      <PropertyRef Name="rowid" />
+    </Key>
+    <Property Name="rowid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="mno" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mdate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="userid" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="totals" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="mReceiver" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="remark" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="z_bas_orders_d">
+    <Key>
+      <PropertyRef Name="rowid" />
+    </Key>
+    <Property Name="rowid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="mno" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="userid" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="gno" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="gname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="price" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="qty" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="amounts" Type="Decimal" Precision="18" Scale="4" />
+    <Property Name="remark" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mIsApproved" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="SnackDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="z_bas_goods" EntityType="Self.z_bas_goods" />
+    <EntitySet Name="z_bas_orders" EntityType="Self.z_bas_orders" />
+    <EntitySet Name="z_bas_orders_d" EntityType="Self.z_bas_orders_d" />
+  </EntityContainer>
+</Schema>
