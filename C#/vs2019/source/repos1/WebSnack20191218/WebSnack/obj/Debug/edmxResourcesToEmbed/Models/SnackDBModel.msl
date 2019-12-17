@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SnackDBModelStoreContainer" CdmEntityContainer="SnackDBEntities">
+    <EntitySetMapping Name="z_bas_goods">
+      <EntityTypeMapping TypeName="SnackDBModel.z_bas_goods">
+        <MappingFragment StoreEntitySet="z_bas_goods">
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+          <ScalarProperty Name="mno" ColumnName="mno" />
+          <ScalarProperty Name="mname" ColumnName="mname" />
+          <ScalarProperty Name="mtype" ColumnName="mtype" />
+          <ScalarProperty Name="mspec" ColumnName="mspec" />
+          <ScalarProperty Name="mdate" ColumnName="mdate" />
+          <ScalarProperty Name="mimg" ColumnName="mimg" />
+          <ScalarProperty Name="qty_stock" ColumnName="qty_stock" />
+          <ScalarProperty Name="price_sale" ColumnName="price_sale" />
+          <ScalarProperty Name="price_discount" ColumnName="price_discount" />
+          <ScalarProperty Name="price_cost" ColumnName="price_cost" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="remark" ColumnName="remark" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="z_bas_goods_type">
+      <EntityTypeMapping TypeName="SnackDBModel.z_bas_goods_type">
+        <MappingFragment StoreEntitySet="z_bas_goods_type">
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+          <ScalarProperty Name="mno" ColumnName="mno" />
+          <ScalarProperty Name="mname" ColumnName="mname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="z_bas_orders">
+      <EntityTypeMapping TypeName="SnackDBModel.z_bas_orders">
+        <MappingFragment StoreEntitySet="z_bas_orders">
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+          <ScalarProperty Name="mno" ColumnName="mno" />
+          <ScalarProperty Name="mdate" ColumnName="mdate" />
+          <ScalarProperty Name="userid" ColumnName="userid" />
+          <ScalarProperty Name="totals" ColumnName="totals" />
+          <ScalarProperty Name="mReceiver" ColumnName="mReceiver" />
+          <ScalarProperty Name="mEmail" ColumnName="mEmail" />
+          <ScalarProperty Name="mAddress" ColumnName="mAddress" />
+          <ScalarProperty Name="remark" ColumnName="remark" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="z_bas_orders_d">
+      <EntityTypeMapping TypeName="SnackDBModel.z_bas_orders_d">
+        <MappingFragment StoreEntitySet="z_bas_orders_d">
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+          <ScalarProperty Name="mno" ColumnName="mno" />
+          <ScalarProperty Name="userid" ColumnName="userid" />
+          <ScalarProperty Name="gno" ColumnName="gno" />
+          <ScalarProperty Name="gname" ColumnName="gname" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="amounts" ColumnName="amounts" />
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="mIsApproved" ColumnName="mIsApproved" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
